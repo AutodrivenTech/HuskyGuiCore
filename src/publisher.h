@@ -1,0 +1,8 @@
+//
+// Created by dengqi on 17-8-25.
+//
+
+#ifndef HUSKYGUICORE_PUBLISHER_H
+#define HUSKYGUICORE_PUBLISHER_H
+
+#endif //HUSKYGUICORE_PUBLISHER_H
